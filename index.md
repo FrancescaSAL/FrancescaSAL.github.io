@@ -61,3 +61,4 @@
 
 ## Link
 * [WIKI](https://it.wikipedia.org/wiki/Incendi_in_Australia_del_2019-2020)
+* [BBC] (https://www.bbc.com/news/world-australia-50951043)
