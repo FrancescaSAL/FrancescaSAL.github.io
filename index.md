@@ -12,15 +12,21 @@
 
 {% include youtubePlayer.html id="AKcoVlOpU6w" %}
 
+
 {% include youtubePlayer.html id="-Qj-fokDayY" %}
+
 
 {% include youtubePlayer.html id="CHHNLBkEj4Q" %}
 
+
 {% include youtubePlayer.html id="A-AwaF5PPDc" %}
+
 
 {% include youtubePlayer.html id="J__4V0ujlaU" %}
 
+
 {% include youtubePlayer.html id="8QcH4Msa7GY" %}
+
 
 {% include youtubePlayer.html id="-Yw5MM2-aR8" %}
 
@@ -30,12 +36,16 @@
 
 {% include youtubePlayer.html id="vAfVWNDuEk4" %}
 
+
 {% include youtubePlayer.html id="Kaa9QlLCCxQ" %}
+
 
 {% include youtubePlayer.html id="omweCEit6k8 %}
 
 
 {% include youtubePlayer.html id= "4PxekUaWRNA" %}
+
+
 
 {% include youtubePlayer.html id= "d-vijLdrrIs" %}
 
@@ -46,6 +56,8 @@
 {% include youtubePlayer.html id= "Fzn5jPUN1IE" %}
 
 
+
+{% include youtubePlayer.html id= "ICJy8BSm-nY %}
 
 
 
