@@ -44,9 +44,7 @@
 {% include youtubePlayer.html id="omweCEit6k8" %}
 
 
-
 {% include youtubePlayer.html id= "4PxekUaWRNA" %}
-
 
 
 {% include youtubePlayer.html id= "d-vijLdrrIs" %}
@@ -61,8 +59,5 @@
 
 {% include youtubePlayer.html id= "ICJy8BSm-nY" %}
 
-
-
-
-[WIKI](https://it.wikipedia.org/wiki/Incendi_in_Australia_del_2019-2020)
-* []()
+## Link
+* [WIKI](https://it.wikipedia.org/wiki/Incendi_in_Australia_del_2019-2020)
