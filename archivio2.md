@@ -1,3 +1,7 @@
+layout: page
+title: "Archivio/2"
+permalink: /archivio/2
+
 ## Archivio sull'incendio in Australia/2
 
 {% include youtubePlayer.html id="-Yw5MM2-aR8" %}
