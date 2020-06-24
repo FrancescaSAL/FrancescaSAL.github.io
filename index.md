@@ -41,7 +41,7 @@
 {% include youtubePlayer.html id="Kaa9QlLCCxQ" %}
 
 
-{% include youtubePlayer.html id="omweCEit6k8 %}
+{% include youtubePlayer.html id="omweCEit6k8" %}
 
 ##15
 
@@ -59,7 +59,7 @@
 
 
 
-{% include youtubePlayer.html id= "ICJy8BSm-nY %}
+{% include youtubePlayer.html id= "ICJy8BSm-nY" %}
 
 20
 
