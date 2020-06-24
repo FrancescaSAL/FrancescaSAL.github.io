@@ -22,6 +22,32 @@
 
 {% include youtubePlayer.html id="8QcH4Msa7GY" %}
 
+{% include youtubePlayer.html id="-Yw5MM2-aR8" %}
+
+
+{% include youtubePlayer.html id="U7nV4jobWoo" %}
+
+
+{% include youtubePlayer.html id="vAfVWNDuEk4" %}
+
+{% include youtubePlayer.html id="Kaa9QlLCCxQ" %}
+
+{% include youtubePlayer.html id="omweCEit6k8 %}
+
+
+{% include youtubePlayer.html id= "4PxekUaWRNA" %}
+
+{% include youtubePlayer.html id= "d-vijLdrrIs" %}
+
+
+{% include youtubePlayer.html id= "1JrpCMl5iNA" %}
+
+{% include youtubePlayer.html id= "Fzn5jPUN1IE %}
+
+
+
+
+
 
 [WIKI](https://it.wikipedia.org/wiki/Incendi_in_Australia_del_2019-2020)
 * []()
